@@ -8,4 +8,4 @@ salas = [
 ]
 
 print(salas[0][1])
-print(salas[2][3][2])
+print(salas[2][3][3])
